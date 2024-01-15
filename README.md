@@ -17,4 +17,5 @@ PLINK version 1.9 is used for whole-genome association analyses
 1. Quality control
 2. GWAS
 3. R script: QC, Visualization
+4. GRM
 
